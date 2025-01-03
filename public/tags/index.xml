@@ -1,779 +1,779 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Pascal Michaillat</title>
-    <link>https://pascalmichaillat.org/tags/</link>
-    <description>Recent content in Tags on Pascal Michaillat</description>
+    <title>Tags on MREF</title>
+    <link>https://mrefoundation.github.io/tags/</link>
+    <description>Recent content in Tags on MREF</description>
     <image>
-      <title>Pascal Michaillat</title>
-      <url>https://pascalmichaillat.org/cover.png</url>
-      <link>https://pascalmichaillat.org/cover.png</link>
+      <title>MREF</title>
+      <url>https://mrefoundation.github.io/cover.png</url>
+      <link>https://mrefoundation.github.io/cover.png</link>
     </image>
-    <generator>Hugo -- 0.135.0</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://pascalmichaillat.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mrefoundation.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beveridge curve</title>
-      <link>https://pascalmichaillat.org/tags/beveridge-curve/</link>
+      <link>https://mrefoundation.github.io/tags/beveridge-curve/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/beveridge-curve/</guid>
+      <guid>https://mrefoundation.github.io/tags/beveridge-curve/</guid>
       <description></description>
     </item>
     <item>
       <title>DMP model</title>
-      <link>https://pascalmichaillat.org/tags/dmp-model/</link>
+      <link>https://mrefoundation.github.io/tags/dmp-model/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/dmp-model/</guid>
+      <guid>https://mrefoundation.github.io/tags/dmp-model/</guid>
       <description></description>
     </item>
     <item>
       <title>job rationing</title>
-      <link>https://pascalmichaillat.org/tags/job-rationing/</link>
+      <link>https://mrefoundation.github.io/tags/job-rationing/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/job-rationing/</guid>
+      <guid>https://mrefoundation.github.io/tags/job-rationing/</guid>
       <description></description>
     </item>
     <item>
       <title>labor-market tightness</title>
-      <link>https://pascalmichaillat.org/tags/labor-market-tightness/</link>
+      <link>https://mrefoundation.github.io/tags/labor-market-tightness/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/labor-market-tightness/</guid>
+      <guid>https://mrefoundation.github.io/tags/labor-market-tightness/</guid>
       <description></description>
     </item>
     <item>
       <title>matching function</title>
-      <link>https://pascalmichaillat.org/tags/matching-function/</link>
+      <link>https://mrefoundation.github.io/tags/matching-function/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/matching-function/</guid>
+      <guid>https://mrefoundation.github.io/tags/matching-function/</guid>
       <description></description>
     </item>
     <item>
       <title>matching model</title>
-      <link>https://pascalmichaillat.org/tags/matching-model/</link>
+      <link>https://mrefoundation.github.io/tags/matching-model/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/matching-model/</guid>
+      <guid>https://mrefoundation.github.io/tags/matching-model/</guid>
       <description></description>
     </item>
     <item>
       <title>public employment</title>
-      <link>https://pascalmichaillat.org/tags/public-employment/</link>
+      <link>https://mrefoundation.github.io/tags/public-employment/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/public-employment/</guid>
+      <guid>https://mrefoundation.github.io/tags/public-employment/</guid>
       <description></description>
     </item>
     <item>
       <title>Shimer puzzle</title>
-      <link>https://pascalmichaillat.org/tags/shimer-puzzle/</link>
+      <link>https://mrefoundation.github.io/tags/shimer-puzzle/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/shimer-puzzle/</guid>
+      <guid>https://mrefoundation.github.io/tags/shimer-puzzle/</guid>
       <description></description>
     </item>
     <item>
       <title>unemployment</title>
-      <link>https://pascalmichaillat.org/tags/unemployment/</link>
+      <link>https://mrefoundation.github.io/tags/unemployment/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/unemployment/</guid>
+      <guid>https://mrefoundation.github.io/tags/unemployment/</guid>
       <description></description>
     </item>
     <item>
       <title>unemployment insurance</title>
-      <link>https://pascalmichaillat.org/tags/unemployment-insurance/</link>
+      <link>https://mrefoundation.github.io/tags/unemployment-insurance/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/unemployment-insurance/</guid>
+      <guid>https://mrefoundation.github.io/tags/unemployment-insurance/</guid>
       <description></description>
     </item>
     <item>
       <title>wage rigidity</title>
-      <link>https://pascalmichaillat.org/tags/wage-rigidity/</link>
+      <link>https://mrefoundation.github.io/tags/wage-rigidity/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/wage-rigidity/</guid>
+      <guid>https://mrefoundation.github.io/tags/wage-rigidity/</guid>
       <description></description>
     </item>
     <item>
       <title>Borjas-Card controversy</title>
-      <link>https://pascalmichaillat.org/tags/borjas-card-controversy/</link>
+      <link>https://mrefoundation.github.io/tags/borjas-card-controversy/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/borjas-card-controversy/</guid>
+      <guid>https://mrefoundation.github.io/tags/borjas-card-controversy/</guid>
       <description></description>
     </item>
     <item>
       <title>business cycles</title>
-      <link>https://pascalmichaillat.org/tags/business-cycles/</link>
+      <link>https://mrefoundation.github.io/tags/business-cycles/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/business-cycles/</guid>
+      <guid>https://mrefoundation.github.io/tags/business-cycles/</guid>
       <description></description>
     </item>
     <item>
       <title>immigration policy</title>
-      <link>https://pascalmichaillat.org/tags/immigration-policy/</link>
+      <link>https://mrefoundation.github.io/tags/immigration-policy/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/immigration-policy/</guid>
+      <guid>https://mrefoundation.github.io/tags/immigration-policy/</guid>
       <description></description>
     </item>
     <item>
       <title>job stealing</title>
-      <link>https://pascalmichaillat.org/tags/job-stealing/</link>
+      <link>https://mrefoundation.github.io/tags/job-stealing/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/job-stealing/</guid>
+      <guid>https://mrefoundation.github.io/tags/job-stealing/</guid>
       <description></description>
     </item>
     <item>
       <title>politics</title>
-      <link>https://pascalmichaillat.org/tags/politics/</link>
+      <link>https://mrefoundation.github.io/tags/politics/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/politics/</guid>
+      <guid>https://mrefoundation.github.io/tags/politics/</guid>
       <description></description>
     </item>
     <item>
       <title>state dependence</title>
-      <link>https://pascalmichaillat.org/tags/state-dependence/</link>
+      <link>https://mrefoundation.github.io/tags/state-dependence/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/state-dependence/</guid>
+      <guid>https://mrefoundation.github.io/tags/state-dependence/</guid>
       <description></description>
     </item>
     <item>
       <title>directed search</title>
-      <link>https://pascalmichaillat.org/tags/directed-search/</link>
+      <link>https://mrefoundation.github.io/tags/directed-search/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/directed-search/</guid>
+      <guid>https://mrefoundation.github.io/tags/directed-search/</guid>
       <description></description>
     </item>
     <item>
       <title>divine coincidence</title>
-      <link>https://pascalmichaillat.org/tags/divine-coincidence/</link>
+      <link>https://mrefoundation.github.io/tags/divine-coincidence/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/divine-coincidence/</guid>
+      <guid>https://mrefoundation.github.io/tags/divine-coincidence/</guid>
       <description></description>
     </item>
     <item>
       <title>economic slack</title>
-      <link>https://pascalmichaillat.org/tags/economic-slack/</link>
+      <link>https://mrefoundation.github.io/tags/economic-slack/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/economic-slack/</guid>
+      <guid>https://mrefoundation.github.io/tags/economic-slack/</guid>
       <description></description>
     </item>
     <item>
       <title>kinked Phillips curve</title>
-      <link>https://pascalmichaillat.org/tags/kinked-phillips-curve/</link>
+      <link>https://mrefoundation.github.io/tags/kinked-phillips-curve/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/kinked-phillips-curve/</guid>
+      <guid>https://mrefoundation.github.io/tags/kinked-phillips-curve/</guid>
       <description></description>
     </item>
     <item>
       <title>monetary policy</title>
-      <link>https://pascalmichaillat.org/tags/monetary-policy/</link>
+      <link>https://mrefoundation.github.io/tags/monetary-policy/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/monetary-policy/</guid>
+      <guid>https://mrefoundation.github.io/tags/monetary-policy/</guid>
       <description></description>
     </item>
     <item>
       <title>Phillips curve</title>
-      <link>https://pascalmichaillat.org/tags/phillips-curve/</link>
+      <link>https://mrefoundation.github.io/tags/phillips-curve/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/phillips-curve/</guid>
+      <guid>https://mrefoundation.github.io/tags/phillips-curve/</guid>
       <description></description>
     </item>
     <item>
       <title>tightness gap</title>
-      <link>https://pascalmichaillat.org/tags/tightness-gap/</link>
+      <link>https://mrefoundation.github.io/tags/tightness-gap/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/tightness-gap/</guid>
+      <guid>https://mrefoundation.github.io/tags/tightness-gap/</guid>
       <description></description>
     </item>
     <item>
       <title>unemployment gap</title>
-      <link>https://pascalmichaillat.org/tags/unemployment-gap/</link>
+      <link>https://mrefoundation.github.io/tags/unemployment-gap/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/unemployment-gap/</guid>
+      <guid>https://mrefoundation.github.io/tags/unemployment-gap/</guid>
       <description></description>
     </item>
     <item>
       <title>wealth in the utility</title>
-      <link>https://pascalmichaillat.org/tags/wealth-in-the-utility/</link>
+      <link>https://mrefoundation.github.io/tags/wealth-in-the-utility/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/wealth-in-the-utility/</guid>
+      <guid>https://mrefoundation.github.io/tags/wealth-in-the-utility/</guid>
       <description></description>
     </item>
     <item>
       <title>efficient unemployment rate</title>
-      <link>https://pascalmichaillat.org/tags/efficient-unemployment-rate/</link>
+      <link>https://mrefoundation.github.io/tags/efficient-unemployment-rate/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/efficient-unemployment-rate/</guid>
+      <guid>https://mrefoundation.github.io/tags/efficient-unemployment-rate/</guid>
       <description></description>
     </item>
     <item>
       <title>FERU</title>
-      <link>https://pascalmichaillat.org/tags/feru/</link>
+      <link>https://mrefoundation.github.io/tags/feru/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/feru/</guid>
+      <guid>https://mrefoundation.github.io/tags/feru/</guid>
       <description></description>
     </item>
     <item>
       <title>full employment</title>
-      <link>https://pascalmichaillat.org/tags/full-employment/</link>
+      <link>https://mrefoundation.github.io/tags/full-employment/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/full-employment/</guid>
+      <guid>https://mrefoundation.github.io/tags/full-employment/</guid>
       <description></description>
     </item>
     <item>
       <title>job vacancies</title>
-      <link>https://pascalmichaillat.org/tags/job-vacancies/</link>
+      <link>https://mrefoundation.github.io/tags/job-vacancies/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/job-vacancies/</guid>
+      <guid>https://mrefoundation.github.io/tags/job-vacancies/</guid>
       <description></description>
     </item>
     <item>
       <title>labor-force participation</title>
-      <link>https://pascalmichaillat.org/tags/labor-force-participation/</link>
+      <link>https://mrefoundation.github.io/tags/labor-force-participation/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/labor-force-participation/</guid>
+      <guid>https://mrefoundation.github.io/tags/labor-force-participation/</guid>
       <description></description>
     </item>
     <item>
       <title>false positives</title>
-      <link>https://pascalmichaillat.org/tags/false-positives/</link>
+      <link>https://mrefoundation.github.io/tags/false-positives/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/false-positives/</guid>
+      <guid>https://mrefoundation.github.io/tags/false-positives/</guid>
       <description></description>
     </item>
     <item>
       <title>Michez rule</title>
-      <link>https://pascalmichaillat.org/tags/michez-rule/</link>
+      <link>https://mrefoundation.github.io/tags/michez-rule/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/michez-rule/</guid>
+      <guid>https://mrefoundation.github.io/tags/michez-rule/</guid>
       <description></description>
     </item>
     <item>
       <title>nowcasting</title>
-      <link>https://pascalmichaillat.org/tags/nowcasting/</link>
+      <link>https://mrefoundation.github.io/tags/nowcasting/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/nowcasting/</guid>
+      <guid>https://mrefoundation.github.io/tags/nowcasting/</guid>
       <description></description>
     </item>
     <item>
       <title>recession indicator</title>
-      <link>https://pascalmichaillat.org/tags/recession-indicator/</link>
+      <link>https://mrefoundation.github.io/tags/recession-indicator/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/recession-indicator/</guid>
+      <guid>https://mrefoundation.github.io/tags/recession-indicator/</guid>
       <description></description>
     </item>
     <item>
       <title>recession probability</title>
-      <link>https://pascalmichaillat.org/tags/recession-probability/</link>
+      <link>https://mrefoundation.github.io/tags/recession-probability/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/recession-probability/</guid>
+      <guid>https://mrefoundation.github.io/tags/recession-probability/</guid>
       <description></description>
     </item>
     <item>
       <title>recession threshold</title>
-      <link>https://pascalmichaillat.org/tags/recession-threshold/</link>
+      <link>https://mrefoundation.github.io/tags/recession-threshold/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/recession-threshold/</guid>
+      <guid>https://mrefoundation.github.io/tags/recession-threshold/</guid>
       <description></description>
     </item>
     <item>
       <title>recessions</title>
-      <link>https://pascalmichaillat.org/tags/recessions/</link>
+      <link>https://mrefoundation.github.io/tags/recessions/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/recessions/</guid>
+      <guid>https://mrefoundation.github.io/tags/recessions/</guid>
       <description></description>
     </item>
     <item>
       <title>Sahm rule</title>
-      <link>https://pascalmichaillat.org/tags/sahm-rule/</link>
+      <link>https://mrefoundation.github.io/tags/sahm-rule/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/sahm-rule/</guid>
+      <guid>https://mrefoundation.github.io/tags/sahm-rule/</guid>
       <description></description>
     </item>
     <item>
       <title>Bonferroni correction</title>
-      <link>https://pascalmichaillat.org/tags/bonferroni-correction/</link>
+      <link>https://mrefoundation.github.io/tags/bonferroni-correction/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/bonferroni-correction/</guid>
+      <guid>https://mrefoundation.github.io/tags/bonferroni-correction/</guid>
       <description></description>
     </item>
     <item>
       <title>critical values</title>
-      <link>https://pascalmichaillat.org/tags/critical-values/</link>
+      <link>https://mrefoundation.github.io/tags/critical-values/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/critical-values/</guid>
+      <guid>https://mrefoundation.github.io/tags/critical-values/</guid>
       <description></description>
     </item>
     <item>
       <title>hypothesis testing</title>
-      <link>https://pascalmichaillat.org/tags/hypothesis-testing/</link>
+      <link>https://mrefoundation.github.io/tags/hypothesis-testing/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/hypothesis-testing/</guid>
+      <guid>https://mrefoundation.github.io/tags/hypothesis-testing/</guid>
       <description></description>
     </item>
     <item>
       <title>incentives</title>
-      <link>https://pascalmichaillat.org/tags/incentives/</link>
+      <link>https://mrefoundation.github.io/tags/incentives/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/incentives/</guid>
+      <guid>https://mrefoundation.github.io/tags/incentives/</guid>
       <description></description>
     </item>
     <item>
       <title>metascience</title>
-      <link>https://pascalmichaillat.org/tags/metascience/</link>
+      <link>https://mrefoundation.github.io/tags/metascience/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/metascience/</guid>
+      <guid>https://mrefoundation.github.io/tags/metascience/</guid>
       <description></description>
     </item>
     <item>
       <title>optimal stopping</title>
-      <link>https://pascalmichaillat.org/tags/optimal-stopping/</link>
+      <link>https://mrefoundation.github.io/tags/optimal-stopping/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/optimal-stopping/</guid>
+      <guid>https://mrefoundation.github.io/tags/optimal-stopping/</guid>
       <description></description>
     </item>
     <item>
       <title>p-hacking</title>
-      <link>https://pascalmichaillat.org/tags/p-hacking/</link>
+      <link>https://mrefoundation.github.io/tags/p-hacking/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/p-hacking/</guid>
+      <guid>https://mrefoundation.github.io/tags/p-hacking/</guid>
       <description></description>
     </item>
     <item>
       <title>publication bias</title>
-      <link>https://pascalmichaillat.org/tags/publication-bias/</link>
+      <link>https://mrefoundation.github.io/tags/publication-bias/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/publication-bias/</guid>
+      <guid>https://mrefoundation.github.io/tags/publication-bias/</guid>
       <description></description>
     </item>
     <item>
       <title>statistical significance</title>
-      <link>https://pascalmichaillat.org/tags/statistical-significance/</link>
+      <link>https://mrefoundation.github.io/tags/statistical-significance/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/statistical-significance/</guid>
+      <guid>https://mrefoundation.github.io/tags/statistical-significance/</guid>
       <description></description>
     </item>
     <item>
       <title>type 1 error</title>
-      <link>https://pascalmichaillat.org/tags/type-1-error/</link>
+      <link>https://mrefoundation.github.io/tags/type-1-error/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/type-1-error/</guid>
+      <guid>https://mrefoundation.github.io/tags/type-1-error/</guid>
       <description></description>
     </item>
     <item>
       <title>fiscal policy</title>
-      <link>https://pascalmichaillat.org/tags/fiscal-policy/</link>
+      <link>https://mrefoundation.github.io/tags/fiscal-policy/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/fiscal-policy/</guid>
+      <guid>https://mrefoundation.github.io/tags/fiscal-policy/</guid>
       <description></description>
     </item>
     <item>
       <title>inequality</title>
-      <link>https://pascalmichaillat.org/tags/inequality/</link>
+      <link>https://mrefoundation.github.io/tags/inequality/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/inequality/</guid>
+      <guid>https://mrefoundation.github.io/tags/inequality/</guid>
       <description></description>
     </item>
     <item>
       <title>Keynesian unemployment</title>
-      <link>https://pascalmichaillat.org/tags/keynesian-unemployment/</link>
+      <link>https://mrefoundation.github.io/tags/keynesian-unemployment/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/keynesian-unemployment/</guid>
+      <guid>https://mrefoundation.github.io/tags/keynesian-unemployment/</guid>
       <description></description>
     </item>
     <item>
       <title>Kuhnian model</title>
-      <link>https://pascalmichaillat.org/tags/kuhnian-model/</link>
+      <link>https://mrefoundation.github.io/tags/kuhnian-model/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/kuhnian-model/</guid>
+      <guid>https://mrefoundation.github.io/tags/kuhnian-model/</guid>
       <description></description>
     </item>
     <item>
       <title>efficient tightness</title>
-      <link>https://pascalmichaillat.org/tags/efficient-tightness/</link>
+      <link>https://mrefoundation.github.io/tags/efficient-tightness/</link>
       <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/efficient-tightness/</guid>
+      <guid>https://mrefoundation.github.io/tags/efficient-tightness/</guid>
       <description></description>
     </item>
     <item>
       <title>zero lower bound</title>
-      <link>https://pascalmichaillat.org/tags/zero-lower-bound/</link>
+      <link>https://mrefoundation.github.io/tags/zero-lower-bound/</link>
       <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/zero-lower-bound/</guid>
+      <guid>https://mrefoundation.github.io/tags/zero-lower-bound/</guid>
       <description></description>
     </item>
     <item>
       <title>sufficient statistics</title>
-      <link>https://pascalmichaillat.org/tags/sufficient-statistics/</link>
+      <link>https://mrefoundation.github.io/tags/sufficient-statistics/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/sufficient-statistics/</guid>
+      <guid>https://mrefoundation.github.io/tags/sufficient-statistics/</guid>
       <description></description>
     </item>
     <item>
       <title>wealth tax</title>
-      <link>https://pascalmichaillat.org/tags/wealth-tax/</link>
+      <link>https://mrefoundation.github.io/tags/wealth-tax/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/wealth-tax/</guid>
+      <guid>https://mrefoundation.github.io/tags/wealth-tax/</guid>
       <description></description>
     </item>
     <item>
       <title>Hagedorn-Manovskii calibration</title>
-      <link>https://pascalmichaillat.org/tags/hagedorn-manovskii-calibration/</link>
+      <link>https://mrefoundation.github.io/tags/hagedorn-manovskii-calibration/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/hagedorn-manovskii-calibration/</guid>
+      <guid>https://mrefoundation.github.io/tags/hagedorn-manovskii-calibration/</guid>
       <description></description>
     </item>
     <item>
       <title>Hosios condition</title>
-      <link>https://pascalmichaillat.org/tags/hosios-condition/</link>
+      <link>https://mrefoundation.github.io/tags/hosios-condition/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/hosios-condition/</guid>
+      <guid>https://mrefoundation.github.io/tags/hosios-condition/</guid>
       <description></description>
     </item>
     <item>
       <title>corporate greed</title>
-      <link>https://pascalmichaillat.org/tags/corporate-greed/</link>
+      <link>https://mrefoundation.github.io/tags/corporate-greed/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/corporate-greed/</guid>
+      <guid>https://mrefoundation.github.io/tags/corporate-greed/</guid>
       <description></description>
     </item>
     <item>
       <title>fair markups</title>
-      <link>https://pascalmichaillat.org/tags/fair-markups/</link>
+      <link>https://mrefoundation.github.io/tags/fair-markups/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/fair-markups/</guid>
+      <guid>https://mrefoundation.github.io/tags/fair-markups/</guid>
       <description></description>
     </item>
     <item>
       <title>fair prices</title>
-      <link>https://pascalmichaillat.org/tags/fair-prices/</link>
+      <link>https://mrefoundation.github.io/tags/fair-prices/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/fair-prices/</guid>
+      <guid>https://mrefoundation.github.io/tags/fair-prices/</guid>
       <description></description>
     </item>
     <item>
       <title>inflation aversion</title>
-      <link>https://pascalmichaillat.org/tags/inflation-aversion/</link>
+      <link>https://mrefoundation.github.io/tags/inflation-aversion/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/inflation-aversion/</guid>
+      <guid>https://mrefoundation.github.io/tags/inflation-aversion/</guid>
       <description></description>
     </item>
     <item>
       <title>misinference</title>
-      <link>https://pascalmichaillat.org/tags/misinference/</link>
+      <link>https://mrefoundation.github.io/tags/misinference/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/misinference/</guid>
+      <guid>https://mrefoundation.github.io/tags/misinference/</guid>
       <description></description>
     </item>
     <item>
       <title>monopoly pricing</title>
-      <link>https://pascalmichaillat.org/tags/monopoly-pricing/</link>
+      <link>https://mrefoundation.github.io/tags/monopoly-pricing/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/monopoly-pricing/</guid>
+      <guid>https://mrefoundation.github.io/tags/monopoly-pricing/</guid>
       <description></description>
     </item>
     <item>
       <title>New Keynesian model</title>
-      <link>https://pascalmichaillat.org/tags/new-keynesian-model/</link>
+      <link>https://mrefoundation.github.io/tags/new-keynesian-model/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/new-keynesian-model/</guid>
+      <guid>https://mrefoundation.github.io/tags/new-keynesian-model/</guid>
       <description></description>
     </item>
     <item>
       <title>price rigidity</title>
-      <link>https://pascalmichaillat.org/tags/price-rigidity/</link>
+      <link>https://mrefoundation.github.io/tags/price-rigidity/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/price-rigidity/</guid>
+      <guid>https://mrefoundation.github.io/tags/price-rigidity/</guid>
       <description></description>
     </item>
     <item>
       <title>Euler equation</title>
-      <link>https://pascalmichaillat.org/tags/euler-equation/</link>
+      <link>https://mrefoundation.github.io/tags/euler-equation/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/euler-equation/</guid>
+      <guid>https://mrefoundation.github.io/tags/euler-equation/</guid>
       <description></description>
     </item>
     <item>
       <title>fiscal multiplier</title>
-      <link>https://pascalmichaillat.org/tags/fiscal-multiplier/</link>
+      <link>https://mrefoundation.github.io/tags/fiscal-multiplier/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/fiscal-multiplier/</guid>
+      <guid>https://mrefoundation.github.io/tags/fiscal-multiplier/</guid>
       <description></description>
     </item>
     <item>
       <title>forward guidance</title>
-      <link>https://pascalmichaillat.org/tags/forward-guidance/</link>
+      <link>https://mrefoundation.github.io/tags/forward-guidance/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/forward-guidance/</guid>
+      <guid>https://mrefoundation.github.io/tags/forward-guidance/</guid>
       <description></description>
     </item>
     <item>
       <title>phase diagrams</title>
-      <link>https://pascalmichaillat.org/tags/phase-diagrams/</link>
+      <link>https://mrefoundation.github.io/tags/phase-diagrams/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/phase-diagrams/</guid>
+      <guid>https://mrefoundation.github.io/tags/phase-diagrams/</guid>
       <description></description>
     </item>
     <item>
       <title>social status</title>
-      <link>https://pascalmichaillat.org/tags/social-status/</link>
+      <link>https://mrefoundation.github.io/tags/social-status/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/social-status/</guid>
+      <guid>https://mrefoundation.github.io/tags/social-status/</guid>
       <description></description>
     </item>
     <item>
       <title>government spending</title>
-      <link>https://pascalmichaillat.org/tags/government-spending/</link>
+      <link>https://mrefoundation.github.io/tags/government-spending/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/government-spending/</guid>
+      <guid>https://mrefoundation.github.io/tags/government-spending/</guid>
       <description></description>
     </item>
     <item>
       <title>Samuelson rule</title>
-      <link>https://pascalmichaillat.org/tags/samuelson-rule/</link>
+      <link>https://mrefoundation.github.io/tags/samuelson-rule/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/samuelson-rule/</guid>
+      <guid>https://mrefoundation.github.io/tags/samuelson-rule/</guid>
       <description></description>
     </item>
     <item>
       <title>stimulus package</title>
-      <link>https://pascalmichaillat.org/tags/stimulus-package/</link>
+      <link>https://mrefoundation.github.io/tags/stimulus-package/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/stimulus-package/</guid>
+      <guid>https://mrefoundation.github.io/tags/stimulus-package/</guid>
       <description></description>
     </item>
     <item>
       <title>beetles</title>
-      <link>https://pascalmichaillat.org/tags/beetles/</link>
+      <link>https://mrefoundation.github.io/tags/beetles/</link>
       <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/beetles/</guid>
+      <guid>https://mrefoundation.github.io/tags/beetles/</guid>
       <description></description>
     </item>
     <item>
       <title>homophily</title>
-      <link>https://pascalmichaillat.org/tags/homophily/</link>
+      <link>https://mrefoundation.github.io/tags/homophily/</link>
       <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/homophily/</guid>
+      <guid>https://mrefoundation.github.io/tags/homophily/</guid>
       <description></description>
     </item>
     <item>
       <title>paradigms</title>
-      <link>https://pascalmichaillat.org/tags/paradigms/</link>
+      <link>https://mrefoundation.github.io/tags/paradigms/</link>
       <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/paradigms/</guid>
+      <guid>https://mrefoundation.github.io/tags/paradigms/</guid>
       <description></description>
     </item>
     <item>
       <title>scientific progress</title>
-      <link>https://pascalmichaillat.org/tags/scientific-progress/</link>
+      <link>https://mrefoundation.github.io/tags/scientific-progress/</link>
       <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/scientific-progress/</guid>
+      <guid>https://mrefoundation.github.io/tags/scientific-progress/</guid>
       <description></description>
     </item>
     <item>
       <title>scientific revolutions</title>
-      <link>https://pascalmichaillat.org/tags/scientific-revolutions/</link>
+      <link>https://mrefoundation.github.io/tags/scientific-revolutions/</link>
       <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/scientific-revolutions/</guid>
+      <guid>https://mrefoundation.github.io/tags/scientific-revolutions/</guid>
       <description></description>
     </item>
     <item>
       <title>tenure</title>
-      <link>https://pascalmichaillat.org/tags/tenure/</link>
+      <link>https://mrefoundation.github.io/tags/tenure/</link>
       <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/tenure/</guid>
+      <guid>https://mrefoundation.github.io/tags/tenure/</guid>
       <description></description>
     </item>
     <item>
       <title>Youden index</title>
-      <link>https://pascalmichaillat.org/tags/youden-index/</link>
+      <link>https://mrefoundation.github.io/tags/youden-index/</link>
       <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/youden-index/</guid>
+      <guid>https://mrefoundation.github.io/tags/youden-index/</guid>
       <description></description>
     </item>
     <item>
       <title>economic growth</title>
-      <link>https://pascalmichaillat.org/tags/economic-growth/</link>
+      <link>https://mrefoundation.github.io/tags/economic-growth/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/economic-growth/</guid>
+      <guid>https://mrefoundation.github.io/tags/economic-growth/</guid>
       <description></description>
     </item>
     <item>
       <title>GDP</title>
-      <link>https://pascalmichaillat.org/tags/gdp/</link>
+      <link>https://mrefoundation.github.io/tags/gdp/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/gdp/</guid>
+      <guid>https://mrefoundation.github.io/tags/gdp/</guid>
       <description></description>
     </item>
     <item>
       <title>inflation</title>
-      <link>https://pascalmichaillat.org/tags/inflation/</link>
+      <link>https://mrefoundation.github.io/tags/inflation/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/inflation/</guid>
+      <guid>https://mrefoundation.github.io/tags/inflation/</guid>
       <description></description>
     </item>
     <item>
       <title>IS-LM model</title>
-      <link>https://pascalmichaillat.org/tags/is-lm-model/</link>
+      <link>https://mrefoundation.github.io/tags/is-lm-model/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/is-lm-model/</guid>
+      <guid>https://mrefoundation.github.io/tags/is-lm-model/</guid>
       <description></description>
     </item>
     <item>
       <title>Malthusian model</title>
-      <link>https://pascalmichaillat.org/tags/malthusian-model/</link>
+      <link>https://mrefoundation.github.io/tags/malthusian-model/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/malthusian-model/</guid>
+      <guid>https://mrefoundation.github.io/tags/malthusian-model/</guid>
       <description></description>
     </item>
     <item>
       <title>Solow model</title>
-      <link>https://pascalmichaillat.org/tags/solow-model/</link>
+      <link>https://mrefoundation.github.io/tags/solow-model/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/solow-model/</guid>
+      <guid>https://mrefoundation.github.io/tags/solow-model/</guid>
       <description></description>
     </item>
     <item>
       <title>Baily-Chetty formula</title>
-      <link>https://pascalmichaillat.org/tags/baily-chetty-formula/</link>
+      <link>https://mrefoundation.github.io/tags/baily-chetty-formula/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/baily-chetty-formula/</guid>
+      <guid>https://mrefoundation.github.io/tags/baily-chetty-formula/</guid>
       <description></description>
     </item>
     <item>
       <title>unemployment benefits</title>
-      <link>https://pascalmichaillat.org/tags/unemployment-benefits/</link>
+      <link>https://mrefoundation.github.io/tags/unemployment-benefits/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/unemployment-benefits/</guid>
+      <guid>https://mrefoundation.github.io/tags/unemployment-benefits/</guid>
       <description></description>
     </item>
     <item>
       <title>job creation</title>
-      <link>https://pascalmichaillat.org/tags/job-creation/</link>
+      <link>https://mrefoundation.github.io/tags/job-creation/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/job-creation/</guid>
+      <guid>https://mrefoundation.github.io/tags/job-creation/</guid>
       <description></description>
     </item>
     <item>
       <title>job search</title>
-      <link>https://pascalmichaillat.org/tags/job-search/</link>
+      <link>https://mrefoundation.github.io/tags/job-search/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/job-search/</guid>
+      <guid>https://mrefoundation.github.io/tags/job-search/</guid>
       <description></description>
     </item>
     <item>
       <title>moral hazard</title>
-      <link>https://pascalmichaillat.org/tags/moral-hazard/</link>
+      <link>https://mrefoundation.github.io/tags/moral-hazard/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/moral-hazard/</guid>
+      <guid>https://mrefoundation.github.io/tags/moral-hazard/</guid>
       <description></description>
     </item>
     <item>
       <title>rat race</title>
-      <link>https://pascalmichaillat.org/tags/rat-race/</link>
+      <link>https://mrefoundation.github.io/tags/rat-race/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/rat-race/</guid>
+      <guid>https://mrefoundation.github.io/tags/rat-race/</guid>
       <description></description>
     </item>
     <item>
       <title>Barro-Grossman model</title>
-      <link>https://pascalmichaillat.org/tags/barro-grossman-model/</link>
+      <link>https://mrefoundation.github.io/tags/barro-grossman-model/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/barro-grossman-model/</guid>
+      <guid>https://mrefoundation.github.io/tags/barro-grossman-model/</guid>
       <description></description>
     </item>
     <item>
       <title>idle capacity</title>
-      <link>https://pascalmichaillat.org/tags/idle-capacity/</link>
+      <link>https://mrefoundation.github.io/tags/idle-capacity/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/idle-capacity/</guid>
+      <guid>https://mrefoundation.github.io/tags/idle-capacity/</guid>
       <description></description>
     </item>
     <item>
       <title>product-market tightness</title>
-      <link>https://pascalmichaillat.org/tags/product-market-tightness/</link>
+      <link>https://mrefoundation.github.io/tags/product-market-tightness/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/product-market-tightness/</guid>
+      <guid>https://mrefoundation.github.io/tags/product-market-tightness/</guid>
       <description></description>
     </item>
     <item>
       <title>crowding out</title>
-      <link>https://pascalmichaillat.org/tags/crowding-out/</link>
+      <link>https://mrefoundation.github.io/tags/crowding-out/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/crowding-out/</guid>
+      <guid>https://mrefoundation.github.io/tags/crowding-out/</guid>
       <description></description>
     </item>
     <item>
       <title>Bellman equation</title>
-      <link>https://pascalmichaillat.org/tags/bellman-equation/</link>
+      <link>https://mrefoundation.github.io/tags/bellman-equation/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/bellman-equation/</guid>
+      <guid>https://mrefoundation.github.io/tags/bellman-equation/</guid>
       <description></description>
     </item>
     <item>
       <title>Benveniste-Scheinkman equation</title>
-      <link>https://pascalmichaillat.org/tags/benveniste-scheinkman-equation/</link>
+      <link>https://mrefoundation.github.io/tags/benveniste-scheinkman-equation/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/benveniste-scheinkman-equation/</guid>
+      <guid>https://mrefoundation.github.io/tags/benveniste-scheinkman-equation/</guid>
       <description></description>
     </item>
     <item>
       <title>differential equations</title>
-      <link>https://pascalmichaillat.org/tags/differential-equations/</link>
+      <link>https://mrefoundation.github.io/tags/differential-equations/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/differential-equations/</guid>
+      <guid>https://mrefoundation.github.io/tags/differential-equations/</guid>
       <description></description>
     </item>
     <item>
       <title>dynamic programming</title>
-      <link>https://pascalmichaillat.org/tags/dynamic-programming/</link>
+      <link>https://mrefoundation.github.io/tags/dynamic-programming/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/dynamic-programming/</guid>
+      <guid>https://mrefoundation.github.io/tags/dynamic-programming/</guid>
       <description></description>
     </item>
     <item>
       <title>dynamical systems</title>
-      <link>https://pascalmichaillat.org/tags/dynamical-systems/</link>
+      <link>https://mrefoundation.github.io/tags/dynamical-systems/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/dynamical-systems/</guid>
+      <guid>https://mrefoundation.github.io/tags/dynamical-systems/</guid>
       <description></description>
     </item>
     <item>
       <title>Hamiltonian</title>
-      <link>https://pascalmichaillat.org/tags/hamiltonian/</link>
+      <link>https://mrefoundation.github.io/tags/hamiltonian/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/hamiltonian/</guid>
+      <guid>https://mrefoundation.github.io/tags/hamiltonian/</guid>
       <description></description>
     </item>
     <item>
       <title>HJB equation</title>
-      <link>https://pascalmichaillat.org/tags/hjb-equation/</link>
+      <link>https://mrefoundation.github.io/tags/hjb-equation/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/hjb-equation/</guid>
+      <guid>https://mrefoundation.github.io/tags/hjb-equation/</guid>
       <description></description>
     </item>
     <item>
       <title>optimal control</title>
-      <link>https://pascalmichaillat.org/tags/optimal-control/</link>
+      <link>https://mrefoundation.github.io/tags/optimal-control/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/optimal-control/</guid>
+      <guid>https://mrefoundation.github.io/tags/optimal-control/</guid>
       <description></description>
     </item>
     <item>
       <title>optimization</title>
-      <link>https://pascalmichaillat.org/tags/optimization/</link>
+      <link>https://mrefoundation.github.io/tags/optimization/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/optimization/</guid>
+      <guid>https://mrefoundation.github.io/tags/optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>frictional unemployment</title>
-      <link>https://pascalmichaillat.org/tags/frictional-unemployment/</link>
+      <link>https://mrefoundation.github.io/tags/frictional-unemployment/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/frictional-unemployment/</guid>
+      <guid>https://mrefoundation.github.io/tags/frictional-unemployment/</guid>
       <description></description>
     </item>
     <item>
       <title>rationing unemployment</title>
-      <link>https://pascalmichaillat.org/tags/rationing-unemployment/</link>
+      <link>https://mrefoundation.github.io/tags/rationing-unemployment/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/rationing-unemployment/</guid>
+      <guid>https://mrefoundation.github.io/tags/rationing-unemployment/</guid>
       <description></description>
     </item>
   </channel>

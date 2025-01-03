@@ -1,5 +1,5 @@
 baseURL: "https://mrefoundation.github.io" 
-title: Pascal Michaillat
+title: MREF
 theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
